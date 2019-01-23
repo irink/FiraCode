@@ -5,3 +5,6 @@ target
 clojure/*.edn
 FiraCode\ (Autosaved).glyphs
 .cpcache
+venv
+instance_ufo
+master_ufo
