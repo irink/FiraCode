@@ -15,9 +15,9 @@ Fontbakery version: 0.6.7
 <summary>:information_source: <b>INFO:</b> Do we have the latest version of FontBakery installed?</summary>
 
 * [com.google.fonts/check/fontbakery_version](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/fontbakery_version)
-* :information_source: **INFO** fontbakery (0.6.8)  - Well designed Font QA tool, written in Python 3
+* :information_source: **INFO** fontbakery (0.6.9)  - Well designed Font QA tool, written in Python 3
   INSTALLED: 0.6.7
-  LATEST:    0.6.8
+  LATEST:    0.6.9
 
 * :bread: **PASS** Font Bakery is up-to-date
 
@@ -709,7 +709,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>:information_source: <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/052](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/052)
-* :information_source: **INFO** This font contains the following optional tables [GPOS, loca, GSUB]
+* :information_source: **INFO** This font contains the following optional tables [loca, GSUB, GPOS]
 * :bread: **PASS** Font contains all required tables.
 
 </details>
